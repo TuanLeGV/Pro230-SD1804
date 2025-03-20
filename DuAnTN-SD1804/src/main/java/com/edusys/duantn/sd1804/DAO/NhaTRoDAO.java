@@ -9,5 +9,7 @@ package com.edusys.duantn.sd1804.DAO;
  * @author Anh Kha
  */
 public class NhaTRoDAO {
-    
+    private int test1 = 1;
+    private int test2 = 2;
+     private int test3 = 4;
 }
